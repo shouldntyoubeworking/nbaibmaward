@@ -1,0 +1,3348 @@
+[
+    {
+        "Player":"LeBron James",
+        "Team":"MIA",
+        "Player-additional":"jamesle01",
+        "G":62,
+        "IBM Score":106.6259046668
+    },
+    {
+        "Player":"Dwight Howard",
+        "Team":"ORL",
+        "Player-additional":"howardw01",
+        "G":54,
+        "IBM Score":100.6
+    },
+    {
+        "Player":"Blake Griffin",
+        "Team":"LAC",
+        "Player-additional":"griffbl01",
+        "G":66,
+        "IBM Score":92.8684418666
+    },
+    {
+        "Player":"Kevin Durant",
+        "Team":"OKC",
+        "Player-additional":"duranke01",
+        "G":66,
+        "IBM Score":91.2855809613
+    },
+    {
+        "Player":"Chris Paul",
+        "Team":"LAC",
+        "Player-additional":"paulch01",
+        "G":60,
+        "IBM Score":88.9137885579
+    },
+    {
+        "Player":"Marc Gasol",
+        "Team":"MEM",
+        "Player-additional":"gasolma01",
+        "G":65,
+        "IBM Score":87.5034559027
+    },
+    {
+        "Player":"Greg Monroe",
+        "Team":"DET",
+        "Player-additional":"monrogr01",
+        "G":66,
+        "IBM Score":86.5133724723
+    },
+    {
+        "Player":"Kevin Love",
+        "Team":"MIN",
+        "Player-additional":"loveke01",
+        "G":55,
+        "IBM Score":85.5051047824
+    },
+    {
+        "Player":"Tyson Chandler",
+        "Team":"NYK",
+        "Player-additional":"chandty01",
+        "G":62,
+        "IBM Score":84.0169537873
+    },
+    {
+        "Player":"Andrew Bynum",
+        "Team":"LAL",
+        "Player-additional":"bynuman01",
+        "G":60,
+        "IBM Score":82.9627896092
+    },
+    {
+        "Player":"Josh Smith",
+        "Team":"ATL",
+        "Player-additional":"smithjo03",
+        "G":66,
+        "IBM Score":81.8835098336
+    },
+    {
+        "Player":"Pau Gasol",
+        "Team":"LAL",
+        "Player-additional":"gasolpa01",
+        "G":65,
+        "IBM Score":81.5001170138
+    },
+    {
+        "Player":"Joakim Noah",
+        "Team":"CHI",
+        "Player-additional":"noahjo01",
+        "G":64,
+        "IBM Score":77.5781614559
+    },
+    {
+        "Player":"Rajon Rondo",
+        "Team":"BOS",
+        "Player-additional":"rondora01",
+        "G":53,
+        "IBM Score":77.2752118065
+    },
+    {
+        "Player":"Marcin Gortat",
+        "Team":"PHO",
+        "Player-additional":"gortama01",
+        "G":66,
+        "IBM Score":77.2124458046
+    },
+    {
+        "Player":"Kris Humphries",
+        "Team":"NJN",
+        "Player-additional":"humphkr01",
+        "G":62,
+        "IBM Score":76.5895953757
+    },
+    {
+        "Player":"Kevin Garnett",
+        "Team":"BOS",
+        "Player-additional":"garneke01",
+        "G":60,
+        "IBM Score":75.0204974037
+    },
+    {
+        "Player":"John Wall",
+        "Team":"WAS",
+        "Player-additional":"walljo01",
+        "G":66,
+        "IBM Score":74.815270936
+    },
+    {
+        "Player":"Roy Hibbert",
+        "Team":"IND",
+        "Player-additional":"hibbero01",
+        "G":65,
+        "IBM Score":74.0666129465
+    },
+    {
+        "Player":"Steve Nash",
+        "Team":"PHO",
+        "Player-additional":"nashst01",
+        "G":62,
+        "IBM Score":74.0244835501
+    },
+    {
+        "Player":"Andre Iguodala",
+        "Team":"PHI",
+        "Player-additional":"iguodan01",
+        "G":62,
+        "IBM Score":72.3450203252
+    },
+    {
+        "Player":"Paul Pierce",
+        "Team":"BOS",
+        "Player-additional":"piercpa01",
+        "G":61,
+        "IBM Score":71.60426346
+    },
+    {
+        "Player":"Al Jefferson",
+        "Team":"UTA",
+        "Player-additional":"jeffeal01",
+        "G":61,
+        "IBM Score":71.5730905412
+    },
+    {
+        "Player":"Paul Millsap",
+        "Team":"UTA",
+        "Player-additional":"millspa01",
+        "G":64,
+        "IBM Score":70.1188669702
+    },
+    {
+        "Player":"Tim Duncan",
+        "Team":"SAS",
+        "Player-additional":"duncati01",
+        "G":58,
+        "IBM Score":69.3670603967
+    },
+    {
+        "Player":"Rudy Gay",
+        "Team":"MEM",
+        "Player-additional":"gayru01",
+        "G":65,
+        "IBM Score":68.4268730993
+    },
+    {
+        "Player":"Russell Westbrook",
+        "Team":"OKC",
+        "Player-additional":"westbru01",
+        "G":66,
+        "IBM Score":68.3621091927
+    },
+    {
+        "Player":"Dirk Nowitzki",
+        "Team":"DAL",
+        "Player-additional":"nowitdi01",
+        "G":62,
+        "IBM Score":67.8404971517
+    },
+    {
+        "Player":"Chris Bosh",
+        "Team":"MIA",
+        "Player-additional":"boshch01",
+        "G":57,
+        "IBM Score":67.6316446219
+    },
+    {
+        "Player":"DeAndre Jordan",
+        "Team":"LAC",
+        "Player-additional":"jordade01",
+        "G":66,
+        "IBM Score":67.4927498023
+    },
+    {
+        "Player":"James Harden",
+        "Team":"OKC",
+        "Player-additional":"hardeja01",
+        "G":62,
+        "IBM Score":67.4288380775
+    },
+    {
+        "Player":"Dwyane Wade",
+        "Team":"MIA",
+        "Player-additional":"wadedw01",
+        "G":49,
+        "IBM Score":66.9453456451
+    },
+    {
+        "Player":"Carlos Boozer",
+        "Team":"CHI",
+        "Player-additional":"boozeca01",
+        "G":66,
+        "IBM Score":66.6122258516
+    },
+    {
+        "Player":"Mike Conley",
+        "Team":"MEM",
+        "Player-additional":"conlemi01",
+        "G":62,
+        "IBM Score":66.5606856511
+    },
+    {
+        "Player":"Ryan Anderson",
+        "Team":"ORL",
+        "Player-additional":"anderry01",
+        "G":61,
+        "IBM Score":66.0666666667
+    },
+    {
+        "Player":"Serge Ibaka",
+        "Team":"OKC",
+        "Player-additional":"ibakase01",
+        "G":66,
+        "IBM Score":65.6206252916
+    },
+    {
+        "Player":"Tony Parker",
+        "Team":"SAS",
+        "Player-additional":"parketo01",
+        "G":60,
+        "IBM Score":65.3554713617
+    },
+    {
+        "Player":"DeMarcus Cousins",
+        "Team":"SAC",
+        "Player-additional":"couside01",
+        "G":64,
+        "IBM Score":65.263306111
+    },
+    {
+        "Player":"David West",
+        "Team":"IND",
+        "Player-additional":"westda01",
+        "G":66,
+        "IBM Score":64.732742412
+    },
+    {
+        "Player":"Marcus Camby",
+        "Team":"HOU",
+        "Player-additional":"cambyma01",
+        "G":59,
+        "IBM Score":63.963095566
+    },
+    {
+        "Player":"Paul George",
+        "Team":"IND",
+        "Player-additional":"georgpa01",
+        "G":66,
+        "IBM Score":63.4568896052
+    },
+    {
+        "Player":"LaMarcus Aldridge",
+        "Team":"POR",
+        "Player-additional":"aldrila01",
+        "G":55,
+        "IBM Score":63.3288227334
+    },
+    {
+        "Player":"Deron Williams",
+        "Team":"NJN",
+        "Player-additional":"willide01",
+        "G":55,
+        "IBM Score":62.6711286888
+    },
+    {
+        "Player":"David Lee",
+        "Team":"GSW",
+        "Player-additional":"leeda02",
+        "G":57,
+        "IBM Score":62.6376651982
+    },
+    {
+        "Player":"Carmelo Anthony",
+        "Team":"NYK",
+        "Player-additional":"anthoca01",
+        "G":55,
+        "IBM Score":62.2094613071
+    },
+    {
+        "Player":"Ersan \u0130lyasova",
+        "Team":"MIL",
+        "Player-additional":"ilyaser01",
+        "G":60,
+        "IBM Score":62.0372734235
+    },
+    {
+        "Player":"Jos\u00e9 Calder\u00f3n",
+        "Team":"TOR",
+        "Player-additional":"caldejo01",
+        "G":53,
+        "IBM Score":61.5240474703
+    },
+    {
+        "Player":"Kobe Bryant",
+        "Team":"LAL",
+        "Player-additional":"bryanko01",
+        "G":58,
+        "IBM Score":61.1397144863
+    },
+    {
+        "Player":"Gerald Wallace",
+        "Team":"NJN",
+        "Player-additional":"wallage01",
+        "G":58,
+        "IBM Score":61.0739275936
+    },
+    {
+        "Player":"Ty Lawson",
+        "Team":"DEN",
+        "Player-additional":"lawsoty01",
+        "G":61,
+        "IBM Score":60.9550561798
+    },
+    {
+        "Player":"Danny Granger",
+        "Team":"IND",
+        "Player-additional":"grangda01",
+        "G":62,
+        "IBM Score":60.5694332528
+    },
+    {
+        "Player":"Shawn Marion",
+        "Team":"DAL",
+        "Player-additional":"mariosh01",
+        "G":63,
+        "IBM Score":58.1952356292
+    },
+    {
+        "Player":"Kyle Lowry",
+        "Team":"HOU",
+        "Player-additional":"lowryky01",
+        "G":47,
+        "IBM Score":58.1107133021
+    },
+    {
+        "Player":"Joe Johnson",
+        "Team":"ATL",
+        "Player-additional":"johnsjo02",
+        "G":60,
+        "IBM Score":58.0559757943
+    },
+    {
+        "Player":"Luol Deng",
+        "Team":"CHI",
+        "Player-additional":"denglu01",
+        "G":54,
+        "IBM Score":58.0377974802
+    },
+    {
+        "Player":"Brandon Jennings",
+        "Team":"MIL",
+        "Player-additional":"jennibr01",
+        "G":66,
+        "IBM Score":57.8248659689
+    },
+    {
+        "Player":"Derrick Rose",
+        "Team":"CHI",
+        "Player-additional":"rosede01",
+        "G":39,
+        "IBM Score":57.5711619225
+    },
+    {
+        "Player":"Samuel Dalembert",
+        "Team":"HOU",
+        "Player-additional":"dalemsa01",
+        "G":65,
+        "IBM Score":57.0090884054
+    },
+    {
+        "Player":"Jeff Teague",
+        "Team":"ATL",
+        "Player-additional":"teaguje01",
+        "G":66,
+        "IBM Score":56.9213313162
+    },
+    {
+        "Player":"Darren Collison",
+        "Team":"IND",
+        "Player-additional":"collida01",
+        "G":60,
+        "IBM Score":56.4061240935
+    },
+    {
+        "Player":"Zaza Pachulia",
+        "Team":"ATL",
+        "Player-additional":"pachuza01",
+        "G":58,
+        "IBM Score":55.6606152295
+    },
+    {
+        "Player":"Goran Dragi\u0107",
+        "Team":"HOU",
+        "Player-additional":"dragigo01",
+        "G":66,
+        "IBM Score":55.4943541724
+    },
+    {
+        "Player":"Gordon Hayward",
+        "Team":"UTA",
+        "Player-additional":"haywago01",
+        "G":66,
+        "IBM Score":55.134041477
+    },
+    {
+        "Player":"Elton Brand",
+        "Team":"PHI",
+        "Player-additional":"brandel01",
+        "G":60,
+        "IBM Score":55.1321138211
+    },
+    {
+        "Player":"Ramon Sessions",
+        "Team":"LAL",
+        "Player-additional":"sessira01",
+        "G":64,
+        "IBM Score":54.9964895858
+    },
+    {
+        "Player":"Brandon Bass",
+        "Team":"BOS",
+        "Player-additional":"bassbr01",
+        "G":59,
+        "IBM Score":54.9330418147
+    },
+    {
+        "Player":"Kawhi Leonard",
+        "Team":"SAS",
+        "Player-additional":"leonaka01",
+        "G":64,
+        "IBM Score":54.4350345442
+    },
+    {
+        "Player":"Ed Davis",
+        "Team":"TOR",
+        "Player-additional":"davised01",
+        "G":66,
+        "IBM Score":53.716427233
+    },
+    {
+        "Player":"Udonis Haslem",
+        "Team":"MIA",
+        "Player-additional":"hasleud01",
+        "G":64,
+        "IBM Score":53.4689293736
+    },
+    {
+        "Player":"Amar'e Stoudemire",
+        "Team":"NYK",
+        "Player-additional":"stoudam01",
+        "G":47,
+        "IBM Score":53.3907574515
+    },
+    {
+        "Player":"Jason Thompson",
+        "Team":"SAC",
+        "Player-additional":"thompja02",
+        "G":64,
+        "IBM Score":52.9428330048
+    },
+    {
+        "Player":"JaVale McGee",
+        "Team":"DEN",
+        "Player-additional":"mcgeeja01",
+        "G":61,
+        "IBM Score":52.8651685393
+    },
+    {
+        "Player":"Landry Fields",
+        "Team":"NYK",
+        "Player-additional":"fieldla01",
+        "G":66,
+        "IBM Score":52.5704129068
+    },
+    {
+        "Player":"Rodney Stuckey",
+        "Team":"DET",
+        "Player-additional":"stuckro01",
+        "G":55,
+        "IBM Score":52.2667971298
+    },
+    {
+        "Player":"Jared Dudley",
+        "Team":"PHO",
+        "Player-additional":"dudleja01",
+        "G":65,
+        "IBM Score":51.7725070135
+    },
+    {
+        "Player":"Tyreke Evans",
+        "Team":"SAC",
+        "Player-additional":"evansty01",
+        "G":63,
+        "IBM Score":51.7459870459
+    },
+    {
+        "Player":"Kyrie Irving",
+        "Team":"CLE",
+        "Player-additional":"irvinky01",
+        "G":51,
+        "IBM Score":51.7267726161
+    },
+    {
+        "Player":"Tiago Splitter",
+        "Team":"SAS",
+        "Player-additional":"splitti01",
+        "G":59,
+        "IBM Score":51.4820592824
+    },
+    {
+        "Player":"Lou Williams",
+        "Team":"PHI",
+        "Player-additional":"willilo02",
+        "G":64,
+        "IBM Score":51.4481707317
+    },
+    {
+        "Player":"Marvin Williams",
+        "Team":"ATL",
+        "Player-additional":"willima02",
+        "G":57,
+        "IBM Score":51.4372163389
+    },
+    {
+        "Player":"Tony Allen",
+        "Team":"MEM",
+        "Player-additional":"allento01",
+        "G":58,
+        "IBM Score":51.3547138513
+    },
+    {
+        "Player":"Taj Gibson",
+        "Team":"CHI",
+        "Player-additional":"gibsota01",
+        "G":63,
+        "IBM Score":51.0965935604
+    },
+    {
+        "Player":"Derrick Favors",
+        "Team":"UTA",
+        "Player-additional":"favorde01",
+        "G":65,
+        "IBM Score":51.0875063227
+    },
+    {
+        "Player":"Luis Scola",
+        "Team":"HOU",
+        "Player-additional":"scolalu01",
+        "G":66,
+        "IBM Score":50.7435968053
+    },
+    {
+        "Player":"Antawn Jamison",
+        "Team":"CLE",
+        "Player-additional":"jamisan01",
+        "G":65,
+        "IBM Score":50.6570904645
+    },
+    {
+        "Player":"Thaddeus Young",
+        "Team":"PHI",
+        "Player-additional":"youngth01",
+        "G":63,
+        "IBM Score":50.3683943089
+    },
+    {
+        "Player":"Monta Ellis",
+        "Team":"MIL",
+        "Player-additional":"ellismo01",
+        "G":58,
+        "IBM Score":50.2297676793
+    },
+    {
+        "Player":"Drew Gooden",
+        "Team":"MIL",
+        "Player-additional":"goodedr01",
+        "G":56,
+        "IBM Score":50.1021189686
+    },
+    {
+        "Player":"Andre Miller",
+        "Team":"DEN",
+        "Player-additional":"millean02",
+        "G":66,
+        "IBM Score":50.0561797753
+    },
+    {
+        "Player":"O.J. Mayo",
+        "Team":"MEM",
+        "Player-additional":"mayooj01",
+        "G":66,
+        "IBM Score":49.695880564
+    },
+    {
+        "Player":"Nicolas Batum",
+        "Team":"POR",
+        "Player-additional":"batumni01",
+        "G":59,
+        "IBM Score":49.6617050068
+    },
+    {
+        "Player":"Jason Kidd",
+        "Team":"DAL",
+        "Player-additional":"kiddja01",
+        "G":48,
+        "IBM Score":49.5857068876
+    },
+    {
+        "Player":"Ronnie Brewer",
+        "Team":"CHI",
+        "Player-additional":"brewero02",
+        "G":66,
+        "IBM Score":49.4633691087
+    },
+    {
+        "Player":"Devin Harris",
+        "Team":"UTA",
+        "Player-additional":"harride01",
+        "G":63,
+        "IBM Score":49.3171471927
+    },
+    {
+        "Player":"Matt Barnes",
+        "Team":"LAL",
+        "Player-additional":"barnema02",
+        "G":63,
+        "IBM Score":49.2628130119
+    },
+    {
+        "Player":"Amir Johnson",
+        "Team":"TOR",
+        "Player-additional":"johnsam01",
+        "G":64,
+        "IBM Score":49.0318550906
+    },
+    {
+        "Player":"\u00d6mer A\u015f\u0131k",
+        "Team":"CHI",
+        "Player-additional":"asikom01",
+        "G":66,
+        "IBM Score":48.9967335511
+    },
+    {
+        "Player":"Mario Chalmers",
+        "Team":"MIA",
+        "Player-additional":"chalmma01",
+        "G":64,
+        "IBM Score":48.7896181682
+    },
+    {
+        "Player":"George Hill",
+        "Team":"IND",
+        "Player-additional":"hillge01",
+        "G":50,
+        "IBM Score":48.7510072522
+    },
+    {
+        "Player":"Kendrick Perkins",
+        "Team":"OKC",
+        "Player-additional":"perkike01",
+        "G":65,
+        "IBM Score":48.5300979935
+    },
+    {
+        "Player":"Evan Turner",
+        "Team":"PHI",
+        "Player-additional":"turneev01",
+        "G":65,
+        "IBM Score":48.5264227642
+    },
+    {
+        "Player":"Danny Green",
+        "Team":"SAS",
+        "Player-additional":"greenda02",
+        "G":66,
+        "IBM Score":48.4733675061
+    },
+    {
+        "Player":"Ray Allen",
+        "Team":"BOS",
+        "Player-additional":"allenra02",
+        "G":46,
+        "IBM Score":48.4421973217
+    },
+    {
+        "Player":"Chandler Parsons",
+        "Team":"HOU",
+        "Player-additional":"parsoch01",
+        "G":63,
+        "IBM Score":48.4026438998
+    },
+    {
+        "Player":"Marreese Speights",
+        "Team":"MEM",
+        "Player-additional":"speigma01",
+        "G":60,
+        "IBM Score":48.3135194913
+    },
+    {
+        "Player":"Tayshaun Prince",
+        "Team":"DET",
+        "Player-additional":"princta01",
+        "G":63,
+        "IBM Score":48.2713633399
+    },
+    {
+        "Player":"JJ Redick",
+        "Team":"ORL",
+        "Player-additional":"redicjj01",
+        "G":65,
+        "IBM Score":48.2666666667
+    },
+    {
+        "Player":"Jameer Nelson",
+        "Team":"ORL",
+        "Player-additional":"nelsoja01",
+        "G":57,
+        "IBM Score":48.2666666667
+    },
+    {
+        "Player":"Dante Cunningham",
+        "Team":"MEM",
+        "Player-additional":"cunnida01",
+        "G":64,
+        "IBM Score":48.1061653304
+    },
+    {
+        "Player":"Jason Terry",
+        "Team":"DAL",
+        "Player-additional":"terryja01",
+        "G":63,
+        "IBM Score":48.096841015
+    },
+    {
+        "Player":"Tyler Hansbrough",
+        "Team":"IND",
+        "Player-additional":"hansbty01",
+        "G":66,
+        "IBM Score":47.9452054795
+    },
+    {
+        "Player":"Brandon Rush",
+        "Team":"GSW",
+        "Player-additional":"rushbr01",
+        "G":65,
+        "IBM Score":47.8386563877
+    },
+    {
+        "Player":"Nikola Pekovi\u0107",
+        "Team":"MIN",
+        "Player-additional":"pekovni01",
+        "G":47,
+        "IBM Score":47.6222461042
+    },
+    {
+        "Player":"Jrue Holiday",
+        "Team":"PHI",
+        "Player-additional":"holidjr01",
+        "G":65,
+        "IBM Score":47.3831300813
+    },
+    {
+        "Player":"Kenneth Faried",
+        "Team":"DEN",
+        "Player-additional":"farieke01",
+        "G":46,
+        "IBM Score":47.2471910112
+    },
+    {
+        "Player":"DeJuan Blair",
+        "Team":"SAS",
+        "Player-additional":"blairde01",
+        "G":64,
+        "IBM Score":47.1918876755
+    },
+    {
+        "Player":"Isaiah Thomas",
+        "Team":"SAC",
+        "Player-additional":"thomais02",
+        "G":65,
+        "IBM Score":46.9586032104
+    },
+    {
+        "Player":"Jarrett Jack",
+        "Team":"NOH",
+        "Player-additional":"jackja01",
+        "G":45,
+        "IBM Score":46.9122911695
+    },
+    {
+        "Player":"Manu Gin\u00f3bili",
+        "Team":"SAS",
+        "Player-additional":"ginobma01",
+        "G":34,
+        "IBM Score":46.6904390461
+    },
+    {
+        "Player":"Channing Frye",
+        "Team":"PHO",
+        "Player-additional":"fryech01",
+        "G":64,
+        "IBM Score":46.6080081612
+    },
+    {
+        "Player":"Nen\u00ea",
+        "Team":"WAS",
+        "Player-additional":"hilarne01",
+        "G":39,
+        "IBM Score":46.3362068966
+    },
+    {
+        "Player":"Ben Wallace",
+        "Team":"DET",
+        "Player-additional":"wallabe01",
+        "G":62,
+        "IBM Score":46.0697977821
+    },
+    {
+        "Player":"Ricky Rubio",
+        "Team":"MIN",
+        "Player-additional":"rubiori01",
+        "G":41,
+        "IBM Score":46.0102095648
+    },
+    {
+        "Player":"Jeremy Lin",
+        "Team":"NYK",
+        "Player-additional":"linje01",
+        "G":35,
+        "IBM Score":45.9392945037
+    },
+    {
+        "Player":"Joel Anthony",
+        "Team":"MIA",
+        "Player-additional":"anthojo01",
+        "G":64,
+        "IBM Score":45.8572498128
+    },
+    {
+        "Player":"Boris Diaw",
+        "Team":"SAS",
+        "Player-additional":"diawbo01",
+        "G":57,
+        "IBM Score":45.7432583018
+    },
+    {
+        "Player":"Alonzo Gee",
+        "Team":"CLE",
+        "Player-additional":"geeal01",
+        "G":63,
+        "IBM Score":45.5378973105
+    },
+    {
+        "Player":"Kyle Korver",
+        "Team":"CHI",
+        "Player-additional":"korveky01",
+        "G":65,
+        "IBM Score":45.2636490901
+    },
+    {
+        "Player":"Matt Bonner",
+        "Team":"SAS",
+        "Player-additional":"bonnema01",
+        "G":65,
+        "IBM Score":45.0189436149
+    },
+    {
+        "Player":"Arron Afflalo",
+        "Team":"DEN",
+        "Player-additional":"afflaar01",
+        "G":62,
+        "IBM Score":44.9438202247
+    },
+    {
+        "Player":"Zach Randolph",
+        "Team":"MEM",
+        "Player-additional":"randoza01",
+        "G":28,
+        "IBM Score":44.9267348631
+    },
+    {
+        "Player":"Greivis V\u00e1squez",
+        "Team":"NOH",
+        "Player-additional":"vasqugr01",
+        "G":66,
+        "IBM Score":44.8985680191
+    },
+    {
+        "Player":"Raymond Felton",
+        "Team":"POR",
+        "Player-additional":"feltora01",
+        "G":60,
+        "IBM Score":44.451962111
+    },
+    {
+        "Player":"James Johnson",
+        "Team":"TOR",
+        "Player-additional":"johnsja01",
+        "G":62,
+        "IBM Score":44.4253591505
+    },
+    {
+        "Player":"Mike Dunleavy",
+        "Team":"MIL",
+        "Player-additional":"dunlemi02",
+        "G":55,
+        "IBM Score":44.3579269849
+    },
+    {
+        "Player":"Dorell Wright",
+        "Team":"GSW",
+        "Player-additional":"wrighdo01",
+        "G":61,
+        "IBM Score":44.1216960352
+    },
+    {
+        "Player":"Nick Collison",
+        "Team":"OKC",
+        "Player-additional":"collini01",
+        "G":63,
+        "IBM Score":44.097060196
+    },
+    {
+        "Player":"Glen Davis",
+        "Team":"ORL",
+        "Player-additional":"davisgl01",
+        "G":61,
+        "IBM Score":44.0666666667
+    },
+    {
+        "Player":"Jonas Jerebko",
+        "Team":"DET",
+        "Player-additional":"jerebjo01",
+        "G":64,
+        "IBM Score":43.8682322244
+    },
+    {
+        "Player":"Wesley Matthews",
+        "Team":"POR",
+        "Player-additional":"matthwe02",
+        "G":66,
+        "IBM Score":43.8430311231
+    },
+    {
+        "Player":"Kemba Walker",
+        "Team":"CHA",
+        "Player-additional":"walkeke02",
+        "G":66,
+        "IBM Score":43.7823834197
+    },
+    {
+        "Player":"Hedo T\u00fcrko\u011flu",
+        "Team":"ORL",
+        "Player-additional":"turkohe01",
+        "G":53,
+        "IBM Score":43.6666666667
+    },
+    {
+        "Player":"Chase Budinger",
+        "Team":"HOU",
+        "Player-additional":"budinch01",
+        "G":58,
+        "IBM Score":43.6518865326
+    },
+    {
+        "Player":"Al Harrington",
+        "Team":"DEN",
+        "Player-additional":"harrial01",
+        "G":64,
+        "IBM Score":43.3707865169
+    },
+    {
+        "Player":"Danilo Gallinari",
+        "Team":"DEN",
+        "Player-additional":"gallida01",
+        "G":43,
+        "IBM Score":43.3146067416
+    },
+    {
+        "Player":"Brendan Haywood",
+        "Team":"DAL",
+        "Player-additional":"haywobr01",
+        "G":54,
+        "IBM Score":43.1771103055
+    },
+    {
+        "Player":"Jason Maxiell",
+        "Team":"DET",
+        "Player-additional":"maxieja01",
+        "G":65,
+        "IBM Score":42.8082191781
+    },
+    {
+        "Player":"Brandon Knight",
+        "Team":"DET",
+        "Player-additional":"knighbr03",
+        "G":66,
+        "IBM Score":42.726679713
+    },
+    {
+        "Player":"J.J. Hickson",
+        "Team":"POR",
+        "Player-additional":"hicksjj01",
+        "G":54,
+        "IBM Score":42.6251691475
+    },
+    {
+        "Player":"Brandan Wright",
+        "Team":"DAL",
+        "Player-additional":"wrighbr03",
+        "G":49,
+        "IBM Score":42.5297773175
+    },
+    {
+        "Player":"Tristan Thompson",
+        "Team":"CLE",
+        "Player-additional":"thomptr01",
+        "G":60,
+        "IBM Score":42.1760391198
+    },
+    {
+        "Player":"Spencer Hawes",
+        "Team":"PHI",
+        "Player-additional":"hawessp01",
+        "G":37,
+        "IBM Score":42.1112804878
+    },
+    {
+        "Player":"Shane Battier",
+        "Team":"MIA",
+        "Player-additional":"battish01",
+        "G":65,
+        "IBM Score":41.9266284003
+    },
+    {
+        "Player":"Jason Richardson",
+        "Team":"ORL",
+        "Player-additional":"richaja01",
+        "G":54,
+        "IBM Score":41.8666666667
+    },
+    {
+        "Player":"Chris Kaman",
+        "Team":"NOH",
+        "Player-additional":"kamanch01",
+        "G":47,
+        "IBM Score":41.8406921241
+    },
+    {
+        "Player":"Vince Carter",
+        "Team":"DAL",
+        "Player-additional":"cartevi01",
+        "G":61,
+        "IBM Score":41.4293112377
+    },
+    {
+        "Player":"Trevor Booker",
+        "Team":"WAS",
+        "Player-additional":"booketr01",
+        "G":50,
+        "IBM Score":41.4100985222
+    },
+    {
+        "Player":"Shelden Williams",
+        "Team":"NJN",
+        "Player-additional":"willish02",
+        "G":58,
+        "IBM Score":41.2990568908
+    },
+    {
+        "Player":"Tracy McGrady",
+        "Team":"ATL",
+        "Player-additional":"mcgratr01",
+        "G":52,
+        "IBM Score":40.9102370146
+    },
+    {
+        "Player":"Anderson Varej\u00e3o",
+        "Team":"CLE",
+        "Player-additional":"varejan01",
+        "G":25,
+        "IBM Score":40.8007334963
+    },
+    {
+        "Player":"Randy Foye",
+        "Team":"LAC",
+        "Player-additional":"foyera01",
+        "G":65,
+        "IBM Score":40.7988399684
+    },
+    {
+        "Player":"Kevin Martin",
+        "Team":"HOU",
+        "Player-additional":"martike02",
+        "G":40,
+        "IBM Score":40.7601211787
+    },
+    {
+        "Player":"Trevor Ariza",
+        "Team":"NOH",
+        "Player-additional":"arizatr01",
+        "G":41,
+        "IBM Score":40.7219570406
+    },
+    {
+        "Player":"Caron Butler",
+        "Team":"LAC",
+        "Player-additional":"butleca01",
+        "G":63,
+        "IBM Score":40.6670181914
+    },
+    {
+        "Player":"C.J. Watson",
+        "Team":"CHI",
+        "Player-additional":"watsocj01",
+        "G":49,
+        "IBM Score":40.5389640691
+    },
+    {
+        "Player":"Gustavo Ay\u00f3n",
+        "Team":"NOH",
+        "Player-additional":"ayongu01",
+        "G":54,
+        "IBM Score":40.423627685
+    },
+    {
+        "Player":"Courtney Lee",
+        "Team":"HOU",
+        "Player-additional":"leeco01",
+        "G":58,
+        "IBM Score":40.4158633985
+    },
+    {
+        "Player":"Metta World Peace",
+        "Team":"LAL",
+        "Player-additional":"artesro01",
+        "G":64,
+        "IBM Score":40.1357360168
+    },
+    {
+        "Player":"Ian Mahinmi",
+        "Team":"DAL",
+        "Player-additional":"mahinia01",
+        "G":61,
+        "IBM Score":40.1346452615
+    },
+    {
+        "Player":"Mo Williams",
+        "Team":"LAC",
+        "Player-additional":"willima01",
+        "G":52,
+        "IBM Score":39.6783548642
+    },
+    {
+        "Player":"Greg Stiemsma",
+        "Team":"BOS",
+        "Player-additional":"stiemgr01",
+        "G":55,
+        "IBM Score":39.6283137469
+    },
+    {
+        "Player":"Rodrigue Beaubois",
+        "Team":"DAL",
+        "Player-additional":"beaubro01",
+        "G":53,
+        "IBM Score":39.2283790782
+    },
+    {
+        "Player":"Reggie Evans",
+        "Team":"LAC",
+        "Player-additional":"evansre01",
+        "G":56,
+        "IBM Score":39.2169786449
+    },
+    {
+        "Player":"Derrick Williams",
+        "Team":"MIN",
+        "Player-additional":"willide02",
+        "G":66,
+        "IBM Score":39.1590542719
+    },
+    {
+        "Player":"Luke Ridnour",
+        "Team":"MIN",
+        "Player-additional":"ridnolu01",
+        "G":53,
+        "IBM Score":39.0918860828
+    },
+    {
+        "Player":"DeMar DeRozan",
+        "Team":"TOR",
+        "Player-additional":"derozde01",
+        "G":63,
+        "IBM Score":39.0381011868
+    },
+    {
+        "Player":"Gary Neal",
+        "Team":"SAS",
+        "Player-additional":"nealga01",
+        "G":56,
+        "IBM Score":39.0015600624
+    },
+    {
+        "Player":"Enes Freedom",
+        "Team":"UTA",
+        "Player-additional":"kanteen01",
+        "G":66,
+        "IBM Score":38.8214466363
+    },
+    {
+        "Player":"Jamal Crawford",
+        "Team":"POR",
+        "Player-additional":"crawfja01",
+        "G":60,
+        "IBM Score":38.7686062246
+    },
+    {
+        "Player":"Ivan Johnson",
+        "Team":"ATL",
+        "Player-additional":"johnsiv01",
+        "G":56,
+        "IBM Score":38.7670196672
+    },
+    {
+        "Player":"Andrea Bargnani",
+        "Team":"TOR",
+        "Player-additional":"bargnan01",
+        "G":31,
+        "IBM Score":38.5696439725
+    },
+    {
+        "Player":"Iman Shumpert",
+        "Team":"NYK",
+        "Player-additional":"shumpim01",
+        "G":59,
+        "IBM Score":38.5561936013
+    },
+    {
+        "Player":"Patrick Patterson",
+        "Team":"HOU",
+        "Player-additional":"pattepa01",
+        "G":64,
+        "IBM Score":38.4880198292
+    },
+    {
+        "Player":"Steve Novak",
+        "Team":"NYK",
+        "Player-additional":"novakst01",
+        "G":54,
+        "IBM Score":38.3511074651
+    },
+    {
+        "Player":"Carlos Delfino",
+        "Team":"MIL",
+        "Player-additional":"delfica01",
+        "G":54,
+        "IBM Score":38.2946132244
+    },
+    {
+        "Player":"Marcus Thornton",
+        "Team":"SAC",
+        "Player-additional":"thornma01",
+        "G":51,
+        "IBM Score":38.2286679809
+    },
+    {
+        "Player":"Stephen Jackson",
+        "Team":"SAS",
+        "Player-additional":"jacksst02",
+        "G":47,
+        "IBM Score":37.9986628037
+    },
+    {
+        "Player":"Delonte West",
+        "Team":"DAL",
+        "Player-additional":"westde01",
+        "G":44,
+        "IBM Score":37.9984464008
+    },
+    {
+        "Player":"Lou Amundson",
+        "Team":"IND",
+        "Player-additional":"amundlo01",
+        "G":60,
+        "IBM Score":37.8055331722
+    },
+    {
+        "Player":"Bismack Biyombo",
+        "Team":"CHA",
+        "Player-additional":"biyombi01",
+        "G":63,
+        "IBM Score":37.3920552677
+    },
+    {
+        "Player":"Avery Bradley",
+        "Team":"BOS",
+        "Player-additional":"bradlav01",
+        "G":64,
+        "IBM Score":37.2369499863
+    },
+    {
+        "Player":"Jodie Meeks",
+        "Team":"PHI",
+        "Player-additional":"meeksjo01",
+        "G":66,
+        "IBM Score":37.2205284553
+    },
+    {
+        "Player":"Ekpe Udoh",
+        "Team":"MIL",
+        "Player-additional":"udohek01",
+        "G":61,
+        "IBM Score":37.0819504723
+    },
+    {
+        "Player":"Kosta Koufos",
+        "Team":"DEN",
+        "Player-additional":"koufoko01",
+        "G":48,
+        "IBM Score":37.0786516854
+    },
+    {
+        "Player":"Kevin S\u00e9raphin",
+        "Team":"WAS",
+        "Player-additional":"serapke01",
+        "G":57,
+        "IBM Score":36.9458128079
+    },
+    {
+        "Player":"Leandro Barbosa",
+        "Team":"IND",
+        "Player-additional":"barbole01",
+        "G":64,
+        "IBM Score":36.8654311039
+    },
+    {
+        "Player":"Mike Miller",
+        "Team":"MIA",
+        "Player-additional":"millemi01",
+        "G":39,
+        "IBM Score":36.8105814824
+    },
+    {
+        "Player":"John Lucas III",
+        "Team":"CHI",
+        "Player-additional":"lucasjo02",
+        "G":49,
+        "IBM Score":36.805879608
+    },
+    {
+        "Player":"J.R. Smith",
+        "Team":"NYK",
+        "Player-additional":"smithjr01",
+        "G":35,
+        "IBM Score":36.7787804211
+    },
+    {
+        "Player":"Thabo Sefolosha",
+        "Team":"OKC",
+        "Player-additional":"sefolth01",
+        "G":42,
+        "IBM Score":36.6892207186
+    },
+    {
+        "Player":"Derek Fisher",
+        "Team":"OKC",
+        "Player-additional":"fishede01",
+        "G":63,
+        "IBM Score":36.6308912739
+    },
+    {
+        "Player":"Chris Duhon",
+        "Team":"ORL",
+        "Player-additional":"duhonch01",
+        "G":63,
+        "IBM Score":36.6
+    },
+    {
+        "Player":"Grant Hill",
+        "Team":"PHO",
+        "Player-additional":"hillgr01",
+        "G":49,
+        "IBM Score":36.5340474369
+    },
+    {
+        "Player":"Luc Mbah a Moute",
+        "Team":"MIL",
+        "Player-additional":"mbahalu01",
+        "G":43,
+        "IBM Score":36.2522338524
+    },
+    {
+        "Player":"Earl Watson",
+        "Team":"UTA",
+        "Player-additional":"watsoea01",
+        "G":50,
+        "IBM Score":36.2291350531
+    },
+    {
+        "Player":"Kenyon Martin",
+        "Team":"LAC",
+        "Player-additional":"martike01",
+        "G":42,
+        "IBM Score":36.1191668864
+    },
+    {
+        "Player":"Al-Farouq Aminu",
+        "Team":"NOH",
+        "Player-additional":"aminual01",
+        "G":66,
+        "IBM Score":36.0978520286
+    },
+    {
+        "Player":"Carl Landry",
+        "Team":"NOH",
+        "Player-additional":"landrca01",
+        "G":41,
+        "IBM Score":36.0232696897
+    },
+    {
+        "Player":"Dominic McGuire",
+        "Team":"GSW",
+        "Player-additional":"mcguido01",
+        "G":64,
+        "IBM Score":35.9994493392
+    },
+    {
+        "Player":"Dahntay Jones",
+        "Team":"IND",
+        "Player-additional":"jonesda02",
+        "G":65,
+        "IBM Score":35.858178888
+    },
+    {
+        "Player":"Nate Robinson",
+        "Team":"GSW",
+        "Player-additional":"robinna01",
+        "G":51,
+        "IBM Score":35.4487885463
+    },
+    {
+        "Player":"Chauncey Billups",
+        "Team":"LAC",
+        "Player-additional":"billuch01",
+        "G":20,
+        "IBM Score":35.2623253361
+    },
+    {
+        "Player":"A.J. Price",
+        "Team":"IND",
+        "Player-additional":"priceaj01",
+        "G":44,
+        "IBM Score":35.2538275584
+    },
+    {
+        "Player":"Richard Jefferson",
+        "Team":"GSW",
+        "Player-additional":"jefferi01",
+        "G":63,
+        "IBM Score":35.2422907489
+    },
+    {
+        "Player":"Vladimir Radmanovi\u0107",
+        "Team":"ATL",
+        "Player-additional":"radmavl01",
+        "G":49,
+        "IBM Score":35.2370146243
+    },
+    {
+        "Player":"Ben Gordon",
+        "Team":"DET",
+        "Player-additional":"gordobe01",
+        "G":52,
+        "IBM Score":35.2250489237
+    },
+    {
+        "Player":"Quincy Pondexter",
+        "Team":"MEM",
+        "Player-additional":"pondequ01",
+        "G":64,
+        "IBM Score":35.0428531933
+    },
+    {
+        "Player":"Beno Udrih",
+        "Team":"MIL",
+        "Player-additional":"udrihbe01",
+        "G":59,
+        "IBM Score":34.9119223896
+    },
+    {
+        "Player":"Robin Lopez",
+        "Team":"PHO",
+        "Player-additional":"lopezro01",
+        "G":64,
+        "IBM Score":34.7487885743
+    },
+    {
+        "Player":"Josh Harrellson",
+        "Team":"NYK",
+        "Player-additional":"harrejo01",
+        "G":37,
+        "IBM Score":34.3861088324
+    },
+    {
+        "Player":"MarShon Brooks",
+        "Team":"NJN",
+        "Player-additional":"brookma01",
+        "G":56,
+        "IBM Score":34.3778521448
+    },
+    {
+        "Player":"Markieff Morris",
+        "Team":"PHO",
+        "Player-additional":"morrima02",
+        "G":63,
+        "IBM Score":34.3662331038
+    },
+    {
+        "Player":"Kirk Hinrich",
+        "Team":"ATL",
+        "Player-additional":"hinriki01",
+        "G":48,
+        "IBM Score":34.3545133636
+    },
+    {
+        "Player":"Nick Young",
+        "Team":"LAC",
+        "Player-additional":"youngni01",
+        "G":62,
+        "IBM Score":34.3395728974
+    },
+    {
+        "Player":"Derrick Brown",
+        "Team":"CHA",
+        "Player-additional":"brownde04",
+        "G":65,
+        "IBM Score":34.2832469775
+    },
+    {
+        "Player":"Shannon Brown",
+        "Team":"PHO",
+        "Player-additional":"brownsh01",
+        "G":59,
+        "IBM Score":34.2387146136
+    },
+    {
+        "Player":"Nazr Mohammed",
+        "Team":"OKC",
+        "Player-additional":"mohamna01",
+        "G":63,
+        "IBM Score":34.1810545964
+    },
+    {
+        "Player":"Jared Jeffries",
+        "Team":"NYK",
+        "Player-additional":"jeffrja01",
+        "G":39,
+        "IBM Score":34.1810226962
+    },
+    {
+        "Player":"J.J. Barea",
+        "Team":"MIN",
+        "Player-additional":"bareajo01",
+        "G":41,
+        "IBM Score":34.121440086
+    },
+    {
+        "Player":"Jimmy Butler",
+        "Team":"CHI",
+        "Player-additional":"butleji01",
+        "G":42,
+        "IBM Score":33.9477368175
+    },
+    {
+        "Player":"D.J. Augustin",
+        "Team":"CHA",
+        "Player-additional":"augusdj01",
+        "G":48,
+        "IBM Score":33.9378238342
+    },
+    {
+        "Player":"Jordan Hill",
+        "Team":"LAL",
+        "Player-additional":"hilljo01",
+        "G":39,
+        "IBM Score":33.9340042125
+    },
+    {
+        "Player":"Josh McRoberts",
+        "Team":"LAL",
+        "Player-additional":"mcrobjo01",
+        "G":50,
+        "IBM Score":33.9340042125
+    },
+    {
+        "Player":"Lamar Odom",
+        "Team":"DAL",
+        "Player-additional":"odomla01",
+        "G":50,
+        "IBM Score":33.8555152771
+    },
+    {
+        "Player":"Chris Wilcox",
+        "Team":"BOS",
+        "Player-additional":"wilcoch01",
+        "G":28,
+        "IBM Score":33.8207160426
+    },
+    {
+        "Player":"Corey Brewer",
+        "Team":"DEN",
+        "Player-additional":"breweco01",
+        "G":59,
+        "IBM Score":33.7078651685
+    },
+    {
+        "Player":"Troy Murphy",
+        "Team":"LAL",
+        "Player-additional":"murphtr01",
+        "G":59,
+        "IBM Score":33.6999765972
+    },
+    {
+        "Player":"Nikola Vu\u010devi\u0107",
+        "Team":"PHI",
+        "Player-additional":"vucevni01",
+        "G":51,
+        "IBM Score":33.600101626
+    },
+    {
+        "Player":"Jordan Crawford",
+        "Team":"WAS",
+        "Player-additional":"crawfjo02",
+        "G":64,
+        "IBM Score":33.5591133005
+    },
+    {
+        "Player":"Anthony Parker",
+        "Team":"CLE",
+        "Player-additional":"parkean01",
+        "G":51,
+        "IBM Score":33.5421760391
+    },
+    {
+        "Player":"Aaron Gray",
+        "Team":"TOR",
+        "Player-additional":"grayaa01",
+        "G":49,
+        "IBM Score":33.4946908182
+    },
+    {
+        "Player":"Richard Hamilton",
+        "Team":"CHI",
+        "Player-additional":"hamilri01",
+        "G":28,
+        "IBM Score":33.4811012599
+    },
+    {
+        "Player":"Jermaine O'Neal",
+        "Team":"BOS",
+        "Player-additional":"onealje01",
+        "G":25,
+        "IBM Score":33.4790926483
+    },
+    {
+        "Player":"Steve Blake",
+        "Team":"LAL",
+        "Player-additional":"blakest01",
+        "G":53,
+        "IBM Score":33.465948982
+    },
+    {
+        "Player":"Ronny Turiaf",
+        "Team":"MIA",
+        "Player-additional":"turiaro01",
+        "G":17,
+        "IBM Score":33.4414774145
+    },
+    {
+        "Player":"James Jones",
+        "Team":"MIA",
+        "Player-additional":"jonesja02",
+        "G":51,
+        "IBM Score":33.3166957824
+    },
+    {
+        "Player":"Marco Belinelli",
+        "Team":"NOH",
+        "Player-additional":"belinma01",
+        "G":66,
+        "IBM Score":33.2637231504
+    },
+    {
+        "Player":"Daequan Cook",
+        "Team":"OKC",
+        "Player-additional":"cookda02",
+        "G":57,
+        "IBM Score":33.2477834811
+    },
+    {
+        "Player":"Chris Andersen",
+        "Team":"DEN",
+        "Player-additional":"anderch01",
+        "G":32,
+        "IBM Score":33.1460674157
+    },
+    {
+        "Player":"Micka\u00ebl Pi\u00e9trus",
+        "Team":"BOS",
+        "Player-additional":"pietrmi01",
+        "G":42,
+        "IBM Score":32.8641705384
+    },
+    {
+        "Player":"Omri Casspi",
+        "Team":"CLE",
+        "Player-additional":"casspom01",
+        "G":65,
+        "IBM Score":32.8545232274
+    },
+    {
+        "Player":"Willie Green",
+        "Team":"ATL",
+        "Player-additional":"greenwi01",
+        "G":53,
+        "IBM Score":32.8416540595
+    },
+    {
+        "Player":"Al Horford",
+        "Team":"ATL",
+        "Player-additional":"horfoal01",
+        "G":11,
+        "IBM Score":32.8416540595
+    },
+    {
+        "Player":"Hamed Haddadi",
+        "Team":"MEM",
+        "Player-additional":"haddaha01",
+        "G":35,
+        "IBM Score":32.7619574233
+    },
+    {
+        "Player":"Alec Burks",
+        "Team":"UTA",
+        "Player-additional":"burksal01",
+        "G":59,
+        "IBM Score":32.3722812342
+    },
+    {
+        "Player":"James Anderson",
+        "Team":"SAS",
+        "Player-additional":"anderja01",
+        "G":51,
+        "IBM Score":32.3712948518
+    },
+    {
+        "Player":"Shaun Livingston",
+        "Team":"MIL",
+        "Player-additional":"livinsh01",
+        "G":58,
+        "IBM Score":32.1674751085
+    },
+    {
+        "Player":"Emeka Okafor",
+        "Team":"NOH",
+        "Player-additional":"okafoem01",
+        "G":27,
+        "IBM Score":32.1449880668
+    },
+    {
+        "Player":"Sundiata Gaines",
+        "Team":"NJN",
+        "Player-additional":"gainesu01",
+        "G":57,
+        "IBM Score":32.0200790995
+    },
+    {
+        "Player":"Lester Hudson",
+        "Team":"MEM",
+        "Player-additional":"hudsole01",
+        "G":16,
+        "IBM Score":32.0016588333
+    },
+    {
+        "Player":"Quentin Richardson",
+        "Team":"ORL",
+        "Player-additional":"richaqu01",
+        "G":48,
+        "IBM Score":32.0
+    },
+    {
+        "Player":"Jannero Pargo",
+        "Team":"ATL",
+        "Player-additional":"pargoja01",
+        "G":50,
+        "IBM Score":31.9591527988
+    },
+    {
+        "Player":"Patty Mills",
+        "Team":"SAS",
+        "Player-additional":"millspa02",
+        "G":16,
+        "IBM Score":31.9255627368
+    },
+    {
+        "Player":"Stephen Curry",
+        "Team":"GSW",
+        "Player-additional":"curryst01",
+        "G":26,
+        "IBM Score":31.8694933921
+    },
+    {
+        "Player":"Gerald Henderson",
+        "Team":"CHA",
+        "Player-additional":"hendege02",
+        "G":55,
+        "IBM Score":31.8652849741
+    },
+    {
+        "Player":"Lavoy Allen",
+        "Team":"PHI",
+        "Player-additional":"allenla01",
+        "G":41,
+        "IBM Score":31.4405487805
+    },
+    {
+        "Player":"Eric Bledsoe",
+        "Team":"LAC",
+        "Player-additional":"bledser01",
+        "G":40,
+        "IBM Score":31.4394938044
+    },
+    {
+        "Player":"Jordan Farmar",
+        "Team":"NJN",
+        "Player-additional":"farmajo01",
+        "G":39,
+        "IBM Score":31.1834499544
+    },
+    {
+        "Player":"Reggie Jackson",
+        "Team":"OKC",
+        "Player-additional":"jacksre01",
+        "G":45,
+        "IBM Score":31.1479234718
+    },
+    {
+        "Player":"Brian Scalabrine",
+        "Team":"CHI",
+        "Player-additional":"scalabr01",
+        "G":28,
+        "IBM Score":30.9729351377
+    },
+    {
+        "Player":"Jerryd Bayless",
+        "Team":"TOR",
+        "Player-additional":"bayleje01",
+        "G":31,
+        "IBM Score":30.9181761399
+    },
+    {
+        "Player":"Lance Stephenson",
+        "Team":"IND",
+        "Player-additional":"stephla01",
+        "G":42,
+        "IBM Score":30.8890679559
+    },
+    {
+        "Player":"Cole Aldrich",
+        "Team":"OKC",
+        "Player-additional":"aldrico01",
+        "G":26,
+        "IBM Score":30.8562762483
+    },
+    {
+        "Player":"Jan Vesel\u00fd",
+        "Team":"WAS",
+        "Player-additional":"veselja01",
+        "G":57,
+        "IBM Score":30.7881773399
+    },
+    {
+        "Player":"Timofey Mozgov",
+        "Team":"DEN",
+        "Player-additional":"mozgoti01",
+        "G":44,
+        "IBM Score":30.7865168539
+    },
+    {
+        "Player":"Norris Cole",
+        "Team":"MIA",
+        "Player-additional":"coleno01",
+        "G":65,
+        "IBM Score":30.6962815074
+    },
+    {
+        "Player":"Marquis Daniels",
+        "Team":"BOS",
+        "Player-additional":"daniema01",
+        "G":38,
+        "IBM Score":30.5411314567
+    },
+    {
+        "Player":"Klay Thompson",
+        "Team":"GSW",
+        "Player-additional":"thompkl01",
+        "G":66,
+        "IBM Score":30.4928414097
+    },
+    {
+        "Player":"Jason Smith",
+        "Team":"NOH",
+        "Player-additional":"smithja02",
+        "G":40,
+        "IBM Score":30.4295942721
+    },
+    {
+        "Player":"Baron Davis",
+        "Team":"NYK",
+        "Player-additional":"davisba01",
+        "G":29,
+        "IBM Score":30.4211101996
+    },
+    {
+        "Player":"Terrel Harris",
+        "Team":"MIA",
+        "Player-additional":"harrite01",
+        "G":22,
+        "IBM Score":30.3219366109
+    },
+    {
+        "Player":"C.J. Miles",
+        "Team":"UTA",
+        "Player-additional":"milescj01",
+        "G":56,
+        "IBM Score":30.1593323217
+    },
+    {
+        "Player":"Josh Howard",
+        "Team":"UTA",
+        "Player-additional":"howarjo01",
+        "G":43,
+        "IBM Score":30.1593323217
+    },
+    {
+        "Player":"Jeff Foster",
+        "Team":"IND",
+        "Player-additional":"fosteje01",
+        "G":11,
+        "IBM Score":30.1504163309
+    },
+    {
+        "Player":"Anthony Morrow",
+        "Team":"NJN",
+        "Player-additional":"morroan01",
+        "G":62,
+        "IBM Score":30.1186492242
+    },
+    {
+        "Player":"Mike James",
+        "Team":"CHI",
+        "Player-additional":"jamesmi01",
+        "G":11,
+        "IBM Score":30.0396640224
+    },
+    {
+        "Player":"Chuck Hayes",
+        "Team":"SAC",
+        "Player-additional":"hayesch01",
+        "G":54,
+        "IBM Score":29.9211489721
+    },
+    {
+        "Player":"Mike Bibby",
+        "Team":"NYK",
+        "Player-additional":"bibbymi01",
+        "G":39,
+        "IBM Score":29.8742138365
+    },
+    {
+        "Player":"T.J. Ford",
+        "Team":"SAS",
+        "Player-additional":"fordtj01",
+        "G":14,
+        "IBM Score":29.8640517049
+    },
+    {
+        "Player":"Ryan Hollins",
+        "Team":"BOS",
+        "Player-additional":"holliry01",
+        "G":39,
+        "IBM Score":29.8578846679
+    },
+    {
+        "Player":"Linas Kleiza",
+        "Team":"TOR",
+        "Player-additional":"kleizli01",
+        "G":49,
+        "IBM Score":29.8251093067
+    },
+    {
+        "Player":"Dexter Pittman",
+        "Team":"MIA",
+        "Player-additional":"pittmde01",
+        "G":35,
+        "IBM Score":29.8228100824
+    },
+    {
+        "Player":"Josh Davis",
+        "Team":"MEM",
+        "Player-additional":"davisjo02",
+        "G":15,
+        "IBM Score":29.7207630633
+    },
+    {
+        "Player":"Jeff Ayres",
+        "Team":"IND",
+        "Player-additional":"pendeje02",
+        "G":20,
+        "IBM Score":29.6803652968
+    },
+    {
+        "Player":"Sasha Pavlovi\u0107",
+        "Team":"BOS",
+        "Player-additional":"pavloal01",
+        "G":45,
+        "IBM Score":29.5845859524
+    },
+    {
+        "Player":"Earl Clark",
+        "Team":"ORL",
+        "Player-additional":"clarkea01",
+        "G":45,
+        "IBM Score":29.5333333333
+    },
+    {
+        "Player":"Cory Joseph",
+        "Team":"SAS",
+        "Player-additional":"josepco01",
+        "G":29,
+        "IBM Score":29.4740361043
+    },
+    {
+        "Player":"Juwan Howard",
+        "Team":"MIA",
+        "Player-additional":"howarju01",
+        "G":28,
+        "IBM Score":29.3860743699
+    },
+    {
+        "Player":"Martell Webster",
+        "Team":"MIN",
+        "Player-additional":"webstma02",
+        "G":47,
+        "IBM Score":29.2853304675
+    },
+    {
+        "Player":"Rudy Fern\u00e1ndez",
+        "Team":"DEN",
+        "Player-additional":"fernaru01",
+        "G":31,
+        "IBM Score":29.2134831461
+    },
+    {
+        "Player":"Jordan Williams",
+        "Team":"NJN",
+        "Player-additional":"willijo03",
+        "G":43,
+        "IBM Score":29.2059628841
+    },
+    {
+        "Player":"JaJuan Johnson",
+        "Team":"BOS",
+        "Player-additional":"johnsja02",
+        "G":36,
+        "IBM Score":29.1746378792
+    },
+    {
+        "Player":"Kyrylo Fesenko",
+        "Team":"IND",
+        "Player-additional":"fesenky01",
+        "G":3,
+        "IBM Score":29.0760139672
+    },
+    {
+        "Player":"Gilbert Arenas",
+        "Team":"MEM",
+        "Player-additional":"arenagi01",
+        "G":17,
+        "IBM Score":28.9604644733
+    },
+    {
+        "Player":"Keyon Dooling",
+        "Team":"BOS",
+        "Player-additional":"doolike01",
+        "G":46,
+        "IBM Score":28.9013391637
+    },
+    {
+        "Player":"Michael Beasley",
+        "Team":"MIN",
+        "Player-additional":"beaslmi01",
+        "G":47,
+        "IBM Score":28.8823213326
+    },
+    {
+        "Player":"Von Wafer",
+        "Team":"ORL",
+        "Player-additional":"wafervo01",
+        "G":33,
+        "IBM Score":28.8666666667
+    },
+    {
+        "Player":"Sean Williams",
+        "Team":"BOS",
+        "Player-additional":"willise01",
+        "G":11,
+        "IBM Score":28.8330144848
+    },
+    {
+        "Player":"Sebastian Telfair",
+        "Team":"PHO",
+        "Player-additional":"telfase01",
+        "G":60,
+        "IBM Score":28.6916602907
+    },
+    {
+        "Player":"Byron Mullens",
+        "Team":"CHA",
+        "Player-additional":"mulleby01",
+        "G":65,
+        "IBM Score":28.5837651123
+    },
+    {
+        "Player":"Derrick Byars",
+        "Team":"SAS",
+        "Player-additional":"byarsde01",
+        "G":2,
+        "IBM Score":28.4711388456
+    },
+    {
+        "Player":"Jamaal Tinsley",
+        "Team":"UTA",
+        "Player-additional":"tinslja01",
+        "G":37,
+        "IBM Score":28.4522003035
+    },
+    {
+        "Player":"Ish Smith",
+        "Team":"ORL",
+        "Player-additional":"smithis01",
+        "G":26,
+        "IBM Score":28.4
+    },
+    {
+        "Player":"Michael Redd",
+        "Team":"PHO",
+        "Player-additional":"reddmi01",
+        "G":51,
+        "IBM Score":28.3728640653
+    },
+    {
+        "Player":"Eric Maynor",
+        "Team":"OKC",
+        "Player-additional":"maynoer01",
+        "G":9,
+        "IBM Score":28.2897806813
+    },
+    {
+        "Player":"E'Twaun Moore",
+        "Team":"BOS",
+        "Player-additional":"mooreet01",
+        "G":38,
+        "IBM Score":28.2864170538
+    },
+    {
+        "Player":"Kurt Thomas",
+        "Team":"POR",
+        "Player-additional":"thomaku01",
+        "G":53,
+        "IBM Score":28.2814614344
+    },
+    {
+        "Player":"Eric Dawson",
+        "Team":"SAS",
+        "Player-additional":"dawsoer01",
+        "G":4,
+        "IBM Score":28.2482727881
+    },
+    {
+        "Player":"Eddy Curry",
+        "Team":"MIA",
+        "Player-additional":"curryed01",
+        "G":14,
+        "IBM Score":28.2006488645
+    },
+    {
+        "Player":"Brian Skinner",
+        "Team":"MEM",
+        "Player-additional":"skinnbr01",
+        "G":1,
+        "IBM Score":28.2001658833
+    },
+    {
+        "Player":"Jeremy Evans",
+        "Team":"UTA",
+        "Player-additional":"evansje01",
+        "G":29,
+        "IBM Score":28.1360647446
+    },
+    {
+        "Player":"Josh Selby",
+        "Team":"MEM",
+        "Player-additional":"selbyjo01",
+        "G":28,
+        "IBM Score":28.1310478297
+    },
+    {
+        "Player":"Shelvin Mack",
+        "Team":"WAS",
+        "Player-additional":"macksh01",
+        "G":64,
+        "IBM Score":28.0942118227
+    },
+    {
+        "Player":"Malcolm Thomas",
+        "Team":"SAS",
+        "Player-additional":"thomama01",
+        "G":3,
+        "IBM Score":28.0811232449
+    },
+    {
+        "Player":"Larry Sanders",
+        "Team":"MIL",
+        "Player-additional":"sandela01",
+        "G":52,
+        "IBM Score":27.8912432984
+    },
+    {
+        "Player":"Bobby Simmons",
+        "Team":"LAC",
+        "Player-additional":"simmobo01",
+        "G":28,
+        "IBM Score":27.8803058265
+    },
+    {
+        "Player":"Chris Singleton",
+        "Team":"WAS",
+        "Player-additional":"singlch01",
+        "G":66,
+        "IBM Score":27.8633004926
+    },
+    {
+        "Player":"Hakim Warrick",
+        "Team":"PHO",
+        "Player-additional":"warriha01",
+        "G":35,
+        "IBM Score":27.8627901046
+    },
+    {
+        "Player":"Ike Diogu",
+        "Team":"SAS",
+        "Player-additional":"dioguik01",
+        "G":2,
+        "IBM Score":27.8025406731
+    },
+    {
+        "Player":"Jeremy Pargo",
+        "Team":"MEM",
+        "Player-additional":"pargoje01",
+        "G":44,
+        "IBM Score":27.7163395079
+    },
+    {
+        "Player":"Ryan Gomes",
+        "Team":"LAC",
+        "Player-additional":"gomesry01",
+        "G":32,
+        "IBM Score":27.6166622726
+    },
+    {
+        "Player":"Johan Petro",
+        "Team":"NJN",
+        "Player-additional":"petrojo01",
+        "G":59,
+        "IBM Score":27.6087617889
+    },
+    {
+        "Player":"Josh Childress",
+        "Team":"PHO",
+        "Player-additional":"childjo01",
+        "G":34,
+        "IBM Score":27.6077531242
+    },
+    {
+        "Player":"Ryan Reid",
+        "Team":"OKC",
+        "Player-additional":"reidry01",
+        "G":5,
+        "IBM Score":27.5898273448
+    },
+    {
+        "Player":"Gary Forbes",
+        "Team":"TOR",
+        "Player-additional":"forbega01",
+        "G":48,
+        "IBM Score":27.4828232355
+    },
+    {
+        "Player":"Henry Walker",
+        "Team":"NYK",
+        "Player-additional":"walkebi01",
+        "G":32,
+        "IBM Score":27.4815422477
+    },
+    {
+        "Player":"Royal Ivey",
+        "Team":"OKC",
+        "Player-additional":"iveyro01",
+        "G":34,
+        "IBM Score":27.4731684554
+    },
+    {
+        "Player":"Jon Leuer",
+        "Team":"MIL",
+        "Player-additional":"leuerjo01",
+        "G":46,
+        "IBM Score":27.3168241001
+    },
+    {
+        "Player":"Jerry Stackhouse",
+        "Team":"ATL",
+        "Player-additional":"stackje01",
+        "G":30,
+        "IBM Score":27.2945032779
+    },
+    {
+        "Player":"Anthony Randolph",
+        "Team":"MIN",
+        "Player-additional":"randoan01",
+        "G":34,
+        "IBM Score":27.2702847931
+    },
+    {
+        "Player":"Daniel Orton",
+        "Team":"ORL",
+        "Player-additional":"ortonda01",
+        "G":16,
+        "IBM Score":27.2666666667
+    },
+    {
+        "Player":"Trey Thompkins",
+        "Team":"LAC",
+        "Player-additional":"thomptr02",
+        "G":24,
+        "IBM Score":27.2211969417
+    },
+    {
+        "Player":"Dominique Jones",
+        "Team":"DAL",
+        "Player-additional":"jonesdo02",
+        "G":33,
+        "IBM Score":27.1879854997
+    },
+    {
+        "Player":"Lazar Hayward",
+        "Team":"OKC",
+        "Player-additional":"haywala01",
+        "G":26,
+        "IBM Score":27.1815212319
+    },
+    {
+        "Player":"Travis Leslie",
+        "Team":"LAC",
+        "Player-additional":"leslitr01",
+        "G":10,
+        "IBM Score":27.1552860533
+    },
+    {
+        "Player":"Wesley Johnson",
+        "Team":"MIN",
+        "Player-additional":"johnswe01",
+        "G":65,
+        "IBM Score":26.8672756582
+    },
+    {
+        "Player":"Gerald Green",
+        "Team":"NJN",
+        "Player-additional":"greenge01",
+        "G":31,
+        "IBM Score":26.7721326437
+    },
+    {
+        "Player":"Devin Ebanks",
+        "Team":"LAL",
+        "Player-additional":"ebankde01",
+        "G":24,
+        "IBM Score":26.7376550433
+    },
+    {
+        "Player":"Jerome Jordan",
+        "Team":"NYK",
+        "Player-additional":"jordaje01",
+        "G":21,
+        "IBM Score":26.661197703
+    },
+    {
+        "Player":"Andrew Bogut",
+        "Team":"MIL",
+        "Player-additional":"bogutan01",
+        "G":12,
+        "IBM Score":26.614756191
+    },
+    {
+        "Player":"Tobias Harris",
+        "Team":"MIL",
+        "Player-additional":"harrito02",
+        "G":42,
+        "IBM Score":26.5509318356
+    },
+    {
+        "Player":"Renaldo Balkman",
+        "Team":"NYK",
+        "Player-additional":"balkmre01",
+        "G":14,
+        "IBM Score":26.5244736123
+    },
+    {
+        "Player":"Jason Collins",
+        "Team":"ATL",
+        "Player-additional":"collija04",
+        "G":30,
+        "IBM Score":26.4750378215
+    },
+    {
+        "Player":"Craig Smith",
+        "Team":"POR",
+        "Player-additional":"smithcr01",
+        "G":47,
+        "IBM Score":26.3870094723
+    },
+    {
+        "Player":"Erick Dampier",
+        "Team":"ATL",
+        "Player-additional":"dampier01",
+        "G":15,
+        "IBM Score":26.2228946041
+    },
+    {
+        "Player":"Damien Wilkins",
+        "Team":"DET",
+        "Player-additional":"wilkida02",
+        "G":60,
+        "IBM Score":26.1741682975
+    },
+    {
+        "Player":"Samardo Samuels",
+        "Team":"CLE",
+        "Player-additional":"samuesa01",
+        "G":54,
+        "IBM Score":26.130806846
+    },
+    {
+        "Player":"John Salmons",
+        "Team":"SAC",
+        "Player-additional":"salmojo01",
+        "G":46,
+        "IBM Score":25.9081948747
+    },
+    {
+        "Player":"DeAndre Liggins",
+        "Team":"ORL",
+        "Player-additional":"liggide01",
+        "G":17,
+        "IBM Score":25.8666666667
+    },
+    {
+        "Player":"Raja Bell",
+        "Team":"UTA",
+        "Player-additional":"bellra01",
+        "G":34,
+        "IBM Score":25.6702073849
+    },
+    {
+        "Player":"Tony Battie",
+        "Team":"PHI",
+        "Player-additional":"battito01",
+        "G":27,
+        "IBM Score":25.6605691057
+    },
+    {
+        "Player":"Toney Douglas",
+        "Team":"NYK",
+        "Player-additional":"douglto01",
+        "G":38,
+        "IBM Score":25.6357670221
+    },
+    {
+        "Player":"Charles Jenkins",
+        "Team":"GSW",
+        "Player-additional":"jenkich01",
+        "G":51,
+        "IBM Score":25.3303964758
+    },
+    {
+        "Player":"Anthony Tolliver",
+        "Team":"MIN",
+        "Player-additional":"tollian01",
+        "G":51,
+        "IBM Score":25.3224073079
+    },
+    {
+        "Player":"Sam Young",
+        "Team":"PHI",
+        "Player-additional":"youngsa01",
+        "G":35,
+        "IBM Score":25.2794715447
+    },
+    {
+        "Player":"Daniel Gibson",
+        "Team":"CLE",
+        "Player-additional":"gibsoda01",
+        "G":35,
+        "IBM Score":25.2139364303
+    },
+    {
+        "Player":"Andris Biedri\u0146\u0161",
+        "Team":"GSW",
+        "Player-additional":"biedran01",
+        "G":47,
+        "IBM Score":25.1927312775
+    },
+    {
+        "Player":"Yi Jianlian",
+        "Team":"DAL",
+        "Player-additional":"jianlyi01",
+        "G":30,
+        "IBM Score":25.1812532367
+    },
+    {
+        "Player":"DeMarre Carroll",
+        "Team":"UTA",
+        "Player-additional":"carrode01",
+        "G":24,
+        "IBM Score":25.1643904906
+    },
+    {
+        "Player":"Dont\u00e9 Greene",
+        "Team":"SAC",
+        "Player-additional":"greendo01",
+        "G":53,
+        "IBM Score":24.9225570262
+    },
+    {
+        "Player":"Jordan Hamilton",
+        "Team":"DEN",
+        "Player-additional":"hamiljo02",
+        "G":26,
+        "IBM Score":24.8314606742
+    },
+    {
+        "Player":"Earl Boykins",
+        "Team":"HOU",
+        "Player-additional":"boykiea01",
+        "G":8,
+        "IBM Score":24.7865601763
+    },
+    {
+        "Player":"Terrence Williams",
+        "Team":"SAC",
+        "Player-additional":"willite01",
+        "G":30,
+        "IBM Score":24.7113489158
+    },
+    {
+        "Player":"Jonny Flynn",
+        "Team":"POR",
+        "Player-additional":"flynnjo01",
+        "G":29,
+        "IBM Score":24.6278755074
+    },
+    {
+        "Player":"Dan Gadzuric",
+        "Team":"NYK",
+        "Player-additional":"gadzuda01",
+        "G":2,
+        "IBM Score":24.6103363413
+    },
+    {
+        "Player":"Joel Przybilla",
+        "Team":"POR",
+        "Player-additional":"przybjo01",
+        "G":27,
+        "IBM Score":24.5602165088
+    },
+    {
+        "Player":"Christian Eyenga",
+        "Team":"LAL",
+        "Player-additional":"eyengch01",
+        "G":7,
+        "IBM Score":24.5143926983
+    },
+    {
+        "Player":"Courtney Fortson",
+        "Team":"HOU",
+        "Player-additional":"fortsco01",
+        "G":10,
+        "IBM Score":24.5111539521
+    },
+    {
+        "Player":"Justin Harper",
+        "Team":"ORL",
+        "Player-additional":"harpeju01",
+        "G":14,
+        "IBM Score":24.4666666667
+    },
+    {
+        "Player":"Darius Morris",
+        "Team":"LAL",
+        "Player-additional":"morrida01",
+        "G":19,
+        "IBM Score":24.4558857945
+    },
+    {
+        "Player":"Jeff Adrien",
+        "Team":"HOU",
+        "Player-additional":"adrieje01",
+        "G":8,
+        "IBM Score":24.442302396
+    },
+    {
+        "Player":"Luke Babbitt",
+        "Team":"POR",
+        "Player-additional":"babbilu01",
+        "G":40,
+        "IBM Score":24.4248985115
+    },
+    {
+        "Player":"Greg Smith",
+        "Team":"HOU",
+        "Player-additional":"smithgr02",
+        "G":8,
+        "IBM Score":24.3045992839
+    },
+    {
+        "Player":"Julyan Stone",
+        "Team":"DEN",
+        "Player-additional":"stoneju01",
+        "G":22,
+        "IBM Score":24.2696629213
+    },
+    {
+        "Player":"Ben Uzoh",
+        "Team":"TOR",
+        "Player-additional":"uzohbe01",
+        "G":18,
+        "IBM Score":24.2036227358
+    },
+    {
+        "Player":"Andrew Goudelock",
+        "Team":"LAL",
+        "Player-additional":"goudean01",
+        "G":40,
+        "IBM Score":24.1633512755
+    },
+    {
+        "Player":"Vernon Macklin",
+        "Team":"DET",
+        "Player-additional":"macklve01",
+        "G":23,
+        "IBM Score":24.1356816699
+    },
+    {
+        "Player":"Jason Kapono",
+        "Team":"LAL",
+        "Player-additional":"kaponja01",
+        "G":27,
+        "IBM Score":23.987830564
+    },
+    {
+        "Player":"Will Bynum",
+        "Team":"DET",
+        "Player-additional":"bynumwi01",
+        "G":36,
+        "IBM Score":23.8910632746
+    },
+    {
+        "Player":"Wayne Ellington",
+        "Team":"MIN",
+        "Player-additional":"ellinwa01",
+        "G":51,
+        "IBM Score":23.8447071467
+    },
+    {
+        "Player":"Ronnie Price",
+        "Team":"PHO",
+        "Player-additional":"pricero01",
+        "G":36,
+        "IBM Score":23.7821984188
+    },
+    {
+        "Player":"Larry Hughes",
+        "Team":"ORL",
+        "Player-additional":"hughela01",
+        "G":9,
+        "IBM Score":23.4666666667
+    },
+    {
+        "Player":"Francisco Garc\u00eda",
+        "Team":"SAC",
+        "Player-additional":"garcifr01",
+        "G":49,
+        "IBM Score":23.4441002534
+    },
+    {
+        "Player":"Brian Cardinal",
+        "Team":"DAL",
+        "Player-additional":"cardibr01",
+        "G":44,
+        "IBM Score":23.4334541688
+    },
+    {
+        "Player":"Charlie Villanueva",
+        "Team":"DET",
+        "Player-additional":"villach01",
+        "G":13,
+        "IBM Score":23.1572080887
+    },
+    {
+        "Player":"D.J. White",
+        "Team":"CHA",
+        "Player-additional":"whitedj01",
+        "G":58,
+        "IBM Score":23.1433506045
+    },
+    {
+        "Player":"Andray Blatche",
+        "Team":"WAS",
+        "Player-additional":"blatcan01",
+        "G":26,
+        "IBM Score":23.0911330049
+    },
+    {
+        "Player":"Wilson Chandler",
+        "Team":"DEN",
+        "Player-additional":"chandwi01",
+        "G":8,
+        "IBM Score":23.0337078652
+    },
+    {
+        "Player":"James Singleton",
+        "Team":"WAS",
+        "Player-additional":"singlja01",
+        "G":12,
+        "IBM Score":23.0141625616
+    },
+    {
+        "Player":"Austin Daye",
+        "Team":"DET",
+        "Player-additional":"dayeau01",
+        "G":41,
+        "IBM Score":22.9941291585
+    },
+    {
+        "Player":"Kelenna Azubuike",
+        "Team":"DAL",
+        "Player-additional":"azubuke01",
+        "G":3,
+        "IBM Score":22.9803210772
+    },
+    {
+        "Player":"Marcus Morris",
+        "Team":"HOU",
+        "Player-additional":"morrima03",
+        "G":17,
+        "IBM Score":22.927568163
+    },
+    {
+        "Player":"Roger Mason",
+        "Team":"WAS",
+        "Player-additional":"masonro01",
+        "G":52,
+        "IBM Score":22.8602216749
+    },
+    {
+        "Player":"Walker Russell",
+        "Team":"DET",
+        "Player-additional":"russewa02",
+        "G":28,
+        "IBM Score":22.8310502283
+    },
+    {
+        "Player":"Manny Harris",
+        "Team":"CLE",
+        "Player-additional":"harrima01",
+        "G":26,
+        "IBM Score":22.7689486553
+    },
+    {
+        "Player":"Donald Sloan",
+        "Team":"CLE",
+        "Player-additional":"sloando01",
+        "G":33,
+        "IBM Score":22.6925427873
+    },
+    {
+        "Player":"Lance Thomas",
+        "Team":"NOH",
+        "Player-additional":"thomala01",
+        "G":42,
+        "IBM Score":22.5984486874
+    },
+    {
+        "Player":"Andr\u00e9s Nocioni",
+        "Team":"PHI",
+        "Player-additional":"nocioan01",
+        "G":11,
+        "IBM Score":22.5482723577
+    },
+    {
+        "Player":"Xavier Henry",
+        "Team":"NOH",
+        "Player-additional":"henryxa01",
+        "G":45,
+        "IBM Score":22.5238663484
+    },
+    {
+        "Player":"Craig Brackins",
+        "Team":"PHI",
+        "Player-additional":"brackcr01",
+        "G":14,
+        "IBM Score":22.4212398374
+    },
+    {
+        "Player":"Francisco Elson",
+        "Team":"PHI",
+        "Player-additional":"elsonfr01",
+        "G":5,
+        "IBM Score":22.3577235772
+    },
+    {
+        "Player":"Jon Brockman",
+        "Team":"MIL",
+        "Player-additional":"brockjo01",
+        "G":35,
+        "IBM Score":22.2108756702
+    },
+    {
+        "Player":"Blake Ahearn",
+        "Team":"UTA",
+        "Player-additional":"ahearbl01",
+        "G":4,
+        "IBM Score":22.1294891249
+    },
+    {
+        "Player":"Xavier Silas",
+        "Team":"PHI",
+        "Player-additional":"silasxa01",
+        "G":2,
+        "IBM Score":21.9131097561
+    },
+    {
+        "Player":"Rashard Lewis",
+        "Team":"WAS",
+        "Player-additional":"lewisra02",
+        "G":28,
+        "IBM Score":21.8596059113
+    },
+    {
+        "Player":"Jimmer Fredette",
+        "Team":"SAC",
+        "Player-additional":"fredeji01",
+        "G":61,
+        "IBM Score":21.8248380738
+    },
+    {
+        "Player":"Hasheem Thabeet",
+        "Team":"POR",
+        "Player-additional":"thabeha01",
+        "G":20,
+        "IBM Score":21.5832205683
+    },
+    {
+        "Player":"Darko Mili\u010di\u0107",
+        "Team":"MIN",
+        "Player-additional":"milicda01",
+        "G":29,
+        "IBM Score":21.5609887157
+    },
+    {
+        "Player":"DeShawn Stevenson",
+        "Team":"NJN",
+        "Player-additional":"stevede01",
+        "G":51,
+        "IBM Score":21.524186188
+    },
+    {
+        "Player":"Solomon Alabi",
+        "Team":"TOR",
+        "Player-additional":"alabiso01",
+        "G":14,
+        "IBM Score":21.2367270456
+    },
+    {
+        "Player":"Eric Gordon",
+        "Team":"NOH",
+        "Player-additional":"gordoer01",
+        "G":9,
+        "IBM Score":21.1813842482
+    },
+    {
+        "Player":"Jamaal Magloire",
+        "Team":"TOR",
+        "Player-additional":"magloja01",
+        "G":34,
+        "IBM Score":21.1586508432
+    },
+    {
+        "Player":"Nolan Smith",
+        "Team":"POR",
+        "Player-additional":"smithno01",
+        "G":44,
+        "IBM Score":20.9066305819
+    },
+    {
+        "Player":"Anthony Carter",
+        "Team":"TOR",
+        "Player-additional":"cartean01",
+        "G":24,
+        "IBM Score":20.7682698314
+    },
+    {
+        "Player":"Elliot Williams",
+        "Team":"POR",
+        "Player-additional":"williel01",
+        "G":24,
+        "IBM Score":20.6359945873
+    },
+    {
+        "Player":"Jeremy Tyler",
+        "Team":"GSW",
+        "Player-additional":"tylerje01",
+        "G":42,
+        "IBM Score":20.5121145374
+    },
+    {
+        "Player":"Chris Wright",
+        "Team":"GSW",
+        "Player-additional":"wrighch01",
+        "G":24,
+        "IBM Score":20.236784141
+    },
+    {
+        "Player":"Mehmet Okur",
+        "Team":"NJN",
+        "Player-additional":"okurme01",
+        "G":17,
+        "IBM Score":20.2312138728
+    },
+    {
+        "Player":"Alan Anderson",
+        "Team":"TOR",
+        "Player-additional":"anderal01",
+        "G":17,
+        "IBM Score":20.2217364147
+    },
+    {
+        "Player":"Brad Miller",
+        "Team":"MIN",
+        "Player-additional":"millebr01",
+        "G":15,
+        "IBM Score":19.814615798
+    },
+    {
+        "Player":"Cartier Martin",
+        "Team":"WAS",
+        "Player-additional":"martica01",
+        "G":17,
+        "IBM Score":19.7814039409
+    },
+    {
+        "Player":"Malcolm Lee",
+        "Team":"MIN",
+        "Player-additional":"leema01",
+        "G":19,
+        "IBM Score":19.6802794197
+    },
+    {
+        "Player":"Darington Hobson",
+        "Team":"MIL",
+        "Player-additional":"hobsoda01",
+        "G":5,
+        "IBM Score":19.5940770998
+    },
+    {
+        "Player":"Rasual Butler",
+        "Team":"TOR",
+        "Player-additional":"butlera01",
+        "G":34,
+        "IBM Score":19.5190505934
+    },
+    {
+        "Player":"Semih Erden",
+        "Team":"CLE",
+        "Player-additional":"erdense01",
+        "G":28,
+        "IBM Score":19.4834963325
+    },
+    {
+        "Player":"Travis Outlaw",
+        "Team":"SAC",
+        "Player-additional":"outlatr01",
+        "G":39,
+        "IBM Score":19.3607434525
+    },
+    {
+        "Player":"Kwame Brown",
+        "Team":"GSW",
+        "Player-additional":"brownkw01",
+        "G":9,
+        "IBM Score":19.3419603524
+    },
+    {
+        "Player":"Brook Lopez",
+        "Team":"NJN",
+        "Player-additional":"lopezbr01",
+        "G":5,
+        "IBM Score":19.3185275327
+    },
+    {
+        "Player":"Corey Maggette",
+        "Team":"CHA",
+        "Player-additional":"maggeco01",
+        "G":32,
+        "IBM Score":19.2573402418
+    },
+    {
+        "Player":"Luke Harangody",
+        "Team":"CLE",
+        "Player-additional":"haranlu01",
+        "G":21,
+        "IBM Score":19.2542787286
+    },
+    {
+        "Player":"Mickell Gladness",
+        "Team":"GSW",
+        "Player-additional":"gladnmi01",
+        "G":26,
+        "IBM Score":18.9289647577
+    },
+    {
+        "Player":"Hassan Whiteside",
+        "Team":"SAC",
+        "Player-additional":"whiteha01",
+        "G":18,
+        "IBM Score":18.4455083075
+    },
+    {
+        "Player":"Damion James",
+        "Team":"NJN",
+        "Player-additional":"jamesda01",
+        "G":7,
+        "IBM Score":18.2537268026
+    },
+    {
+        "Player":"Armon Johnson",
+        "Team":"NJN",
+        "Player-additional":"johnsar02",
+        "G":9,
+        "IBM Score":18.1016124125
+    },
+    {
+        "Player":"Solomon Jones",
+        "Team":"NOH",
+        "Player-additional":"jonesso01",
+        "G":21,
+        "IBM Score":18.0489260143
+    },
+    {
+        "Player":"Justin Dentmon",
+        "Team":"TOR",
+        "Player-additional":"dentmju01",
+        "G":6,
+        "IBM Score":18.0356027483
+    },
+    {
+        "Player":"Jerome Dyson",
+        "Team":"NOH",
+        "Player-additional":"dysonje01",
+        "G":9,
+        "IBM Score":17.8997613365
+    },
+    {
+        "Player":"Shawne Williams",
+        "Team":"NJN",
+        "Player-additional":"willish03",
+        "G":25,
+        "IBM Score":17.7973836325
+    },
+    {
+        "Player":"Andre Emmett",
+        "Team":"NJN",
+        "Player-additional":"emmetan01",
+        "G":6,
+        "IBM Score":17.6452692425
+    },
+    {
+        "Player":"Darryl Watkins",
+        "Team":"NOH",
+        "Player-additional":"watkida01",
+        "G":5,
+        "IBM Score":17.6014319809
+    },
+    {
+        "Player":"Chris Johnson",
+        "Team":"NOH",
+        "Player-additional":"johnsch03",
+        "G":27,
+        "IBM Score":17.3776849642
+    },
+    {
+        "Player":"Larry Owens",
+        "Team":"NJN",
+        "Player-additional":"owensla01",
+        "G":7,
+        "IBM Score":17.3410404624
+    },
+    {
+        "Player":"Reggie Williams",
+        "Team":"CHA",
+        "Player-additional":"willire02",
+        "G":33,
+        "IBM Score":17.0984455959
+    },
+    {
+        "Player":"Dennis Horner",
+        "Team":"NJN",
+        "Player-additional":"hornede01",
+        "G":8,
+        "IBM Score":17.0368116824
+    },
+    {
+        "Player":"Jerry Smith",
+        "Team":"NJN",
+        "Player-additional":"smithje01",
+        "G":5,
+        "IBM Score":17.0368116824
+    },
+    {
+        "Player":"Luke Walton",
+        "Team":"CLE",
+        "Player-additional":"waltolu01",
+        "G":30,
+        "IBM Score":16.9621026895
+    },
+    {
+        "Player":"Tyler Honeycutt",
+        "Team":"SAC",
+        "Player-additional":"honeyty01",
+        "G":15,
+        "IBM Score":16.8262461279
+    },
+    {
+        "Player":"Carldell Johnson",
+        "Team":"NOH",
+        "Player-additional":"johnsca01",
+        "G":15,
+        "IBM Score":16.6318615752
+    },
+    {
+        "Player":"Keith Bogans",
+        "Team":"NJN",
+        "Player-additional":"boganke01",
+        "G":5,
+        "IBM Score":16.5804685123
+    },
+    {
+        "Player":"Trey Johnson",
+        "Team":"NOH",
+        "Player-additional":"johnstr01",
+        "G":11,
+        "IBM Score":16.3335322196
+    },
+    {
+        "Player":"Mikki Moore",
+        "Team":"GSW",
+        "Player-additional":"mooremi01",
+        "G":7,
+        "IBM Score":16.2444933921
+    },
+    {
+        "Player":"D.J. Kennedy",
+        "Team":"CLE",
+        "Player-additional":"kennedj01",
+        "G":2,
+        "IBM Score":16.1980440098
+    },
+    {
+        "Player":"Brian Cook",
+        "Team":"WAS",
+        "Player-additional":"cookbr01",
+        "G":32,
+        "IBM Score":16.0098522167
+    },
+    {
+        "Player":"Keith Benson",
+        "Team":"GSW",
+        "Player-additional":"bensoke02",
+        "G":3,
+        "IBM Score":15.9691629956
+    },
+    {
+        "Player":"DaJuan Summers",
+        "Team":"NOH",
+        "Player-additional":"summeda01",
+        "G":15,
+        "IBM Score":15.9606205251
+    },
+    {
+        "Player":"Morris Almond",
+        "Team":"WAS",
+        "Player-additional":"almonmo01",
+        "G":4,
+        "IBM Score":15.9328817734
+    },
+    {
+        "Player":"Edwin Ubiles",
+        "Team":"WAS",
+        "Player-additional":"ubileed01",
+        "G":4,
+        "IBM Score":15.9328817734
+    },
+    {
+        "Player":"Maurice Evans",
+        "Team":"WAS",
+        "Player-additional":"evansma01",
+        "G":24,
+        "IBM Score":15.85591133
+    },
+    {
+        "Player":"Mychel Thompson",
+        "Team":"CLE",
+        "Player-additional":"thompmy02",
+        "G":5,
+        "IBM Score":15.739608802
+    },
+    {
+        "Player":"Tyrus Thomas",
+        "Team":"CHA",
+        "Player-additional":"thomaty01",
+        "G":54,
+        "IBM Score":15.6303972366
+    },
+    {
+        "Player":"Earl Barron",
+        "Team":"GSW",
+        "Player-additional":"barroea01",
+        "G":2,
+        "IBM Score":15.5561674009
+    },
+    {
+        "Player":"Jeff Foote",
+        "Team":"NOH",
+        "Player-additional":"footeje01",
+        "G":4,
+        "IBM Score":15.5131264916
+    },
+    {
+        "Player":"Hamady N'Diaye",
+        "Team":"WAS",
+        "Player-additional":"ndiayha01",
+        "G":3,
+        "IBM Score":15.3171182266
+    },
+    {
+        "Player":"DeSagana Diop",
+        "Team":"CHA",
+        "Player-additional":"diopde01",
+        "G":27,
+        "IBM Score":11.3126079447
+    },
+    {
+        "Player":"Eduardo N\u00e1jera",
+        "Team":"CHA",
+        "Player-additional":"najered01",
+        "G":22,
+        "IBM Score":8.8082901554
+    },
+    {
+        "Player":"Matt Carroll",
+        "Team":"CHA",
+        "Player-additional":"carroma01",
+        "G":53,
+        "IBM Score":8.4628670121
+    },
+    {
+        "Player":"Jamario Moon",
+        "Team":"CHA",
+        "Player-additional":"moonja01",
+        "G":8,
+        "IBM Score":7.2538860104
+    },
+    {
+        "Player":"Cory Higgins",
+        "Team":"CHA",
+        "Player-additional":"higgico01",
+        "G":38,
+        "IBM Score":5.4404145078
+    }
+]
