@@ -26,7 +26,7 @@ function Data(props) {
     const seasonData = jsonData.find((seasonData) => seasonData.season === season);
     const teams = Array.from(new Set(seasonData?.players.map((player) => player.Team)));
     setTeamAbbreviations(teams);
-    setSelectedTeam("all"); 
+    setSelectedTeam("all");
   };
 
   const handleTeamChange = (team) => {
@@ -53,7 +53,7 @@ function Data(props) {
             target="_blank"
             rel="noreferrer"
           >
-            {player.Player}
+            {player["Player"] ? player["Player"] : ""}
             {awardYear && awardYear.MVP === playerId ? " (MVP)" : ""}
             {awardYear && awardYear.IBM === playerId ? ` (${selectedSeason < 1987 ? "Schick Award/pre-IBM Award era" : "IBM Award"})` : ""}
           </a>
@@ -136,31 +136,33 @@ function Data(props) {
             <h2 className="text-lg font-bold">Players for {selectedSeason - 1} - {selectedSeason}</h2>
             <button onClick={downloadCSV} className="btn btn-primary">Download CSV</button>
           </div>
+          <div className="table-container">
 
-          <table className="table-data">
-            <thead>
-              {table.getHeaderGroups().map(headerGroup => (
-                <tr key={headerGroup.id}>
-                  {headerGroup.headers.map(header => (
-                    <th key={header.id} className="p-2 border">
-                      {flexRender(header.column.columnDef.header, header.getContext())}
-                    </th>
-                  ))}
-                </tr>
-              ))}
-            </thead>
-            <tbody>
-              {table.getRowModel().rows.map(row => (
-                <tr key={row.id} className="border">
-                  {row.getVisibleCells().map(cell => (
-                    <td key={cell.id} className="p-2">
-                      {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                    </td>
-                  ))}
-                </tr>
-              ))}
-            </tbody>
-          </table>
+            <table className="table-data">
+              <thead>
+                {table.getHeaderGroups().map(headerGroup => (
+                  <tr key={headerGroup.id}>
+                    {headerGroup.headers.map(header => (
+                      <th key={header.id} className="p-2 border">
+                        {flexRender(header.column.columnDef.header, header.getContext())}
+                      </th>
+                    ))}
+                  </tr>
+                ))}
+              </thead>
+              <tbody>
+                {table.getRowModel().rows.map(row => (
+                  <tr key={row.id} className="border">
+                    {row.getVisibleCells().map(cell => (
+                      <td key={cell.id} className="p-2">
+                        {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                      </td>
+                    ))}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
           <div className="pagination">
             <button
               onClick={() => table.previousPage()}

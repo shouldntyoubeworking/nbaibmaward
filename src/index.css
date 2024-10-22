@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 @layer base {
   :root {
     --radius: 0.5rem
@@ -15,13 +16,14 @@ html {
 .landing {
   height: 100vh;
   background: #214678;
-} 
+}
 
 .data {
   padding: 2%;
   height: 100vh;
   overflow-y: scroll;
 }
+
 .menu nav div {
   width: 100%;
   text-align: center;
@@ -30,6 +32,7 @@ html {
   cursor: pointer;
 
 }
+
 .formula.page {
   height: 100vh;
 }
@@ -38,9 +41,11 @@ html {
   width: 80%;
   margin: 0 auto;
 }
+
 .menu {
   display: flex;
 }
+
 .mythoughts.page p {
   margin-bottom: 1em;
 }
@@ -50,11 +55,12 @@ html {
   color: #FFF;
   width: 100%;
 }
+
 .logo {
   height: 1em;
   margin-top: 0.4em;
   width: 20%;
-  background: url(logo.svg);
+  background: url(./logo.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: left;
@@ -72,8 +78,9 @@ html {
   z-index: 9999;
   border-bottom: 1px solid #3d3d3d;
 }
+
 .page {
-  padding-top:1%;
+  padding-top: 1%;
 }
 
 .explaination {
@@ -83,6 +90,7 @@ html {
   text-align: center;
   line-height: 10em;
 }
+
 .explaination a {
   text-decoration: underline;
 }
@@ -108,10 +116,13 @@ table.table-data {
   padding-left: 1%;
   margin-top: 1%;
 }
-button.first-page.btn, button.last-page.btn {
+
+button.first-page.btn,
+button.last-page.btn {
   background: slategrey;
-  color:#000;
+  color: #000;
 }
+
 .award-container {
   display: flex;
 }
@@ -158,6 +169,7 @@ table.awards-table {
   border-color: #00a4ff;
   border-width: 1em;
 }
+
 .nba-jam-team-select {
   width: 70%;
   height: 45%;
@@ -168,6 +180,7 @@ table.awards-table {
   border-color: silver;
   border-width: 0.1em;
 }
+
 .nba-jam-player-name-chyron {
   width: 100%;
   height: 8em;
@@ -175,6 +188,7 @@ table.awards-table {
   background-color: #09071e;
   bottom: 0;
 }
+
 .nba-jam-teams.west {
   color: yellow;
 }
@@ -192,39 +206,52 @@ table.awards-table {
   font-family: "VT323";
   font-size: 1.3em;
   padding-left: 1em;
-  height: 100%;}
+  height: 100%;
+}
 
 .nba-jam-teams {
   display: flex;
-  flex-wrap: wrap; 
+  flex-wrap: wrap;
 }
 
-.nba-jam-teams > div {
-  flex: 1 0 calc(50% - 8px); 
+.nba-jam-teams>div {
+  flex: 1 0 calc(50% - 8px);
   cursor: pointer;
 }
+
 .nba-jam-window {
-  background-repeat: no-repeat!important;
-  background-position: top center!important;
-  background-size: 13em!important;
+  background-repeat: no-repeat !important;
+  background-position: top center !important;
+  background-size: 13em !important;
 
 }
 
 .nba-jam-window.MIA {
-  background-size: 10em!important;
+  background-size: 10em !important;
 }
+
 .nba-jam-window.CLE {
-  background-size: 7em!important;
+  background-size: 7em !important;
 }
-.nba-jam-window.NOP {background-size: 20em !important;
+
+.nba-jam-window.NOP {
+  background-size: 20em !important;
 }
-.nba-jam-window.NYK, .nba-jam-window.LAL {background-size: 20em !important;
+
+.nba-jam-window.NYK,
+.nba-jam-window.LAL {
+  background-size: 20em !important;
 }
+
 .nba-jam-player-name-chyron {
   display: flex;
 }
 
-.player-chyron {width: 50%;padding: 1%;text-align: center;}
+.player-chyron {
+  width: 50%;
+  padding: 1%;
+  text-align: center;
+}
 
 .player-name {
   height: 70%;
@@ -240,6 +267,7 @@ table.awards-table {
   font-size: 2.2em;
   font-family: monospace;
 }
+
 .nba-jam-title {
   background: #5252526e;
   width: fit-content;
@@ -251,34 +279,72 @@ table.awards-table {
 
 @media (max-width: 600px) {
 
-.award-container {
-  display: block;
-}
+  .menu nav div {
+    display: none;
+  }
 
-.award-column {
-  width: 100%;
-  font-size: 0.7em;
-}
-.player-name {
-  font-size: 1.2em;
-}
+  .logo {
+    width: 100% !important;
+    background-position: center;
+  }
 
-.player-score {
-  font-size: 1.2em;
-}
-.nba-jam-player-name-chyron {
-  height: 4em;
-}
+  .table-container {
+    height: 60vh;
+    overflow-y: scroll;
+  }
 
-.nba-jam-teams {
-  font-size: 0.7em;
-  width: 80%!important;
-}
+  .logo {
+    background-position: center;
+    width: 100% !important;
+  }
 
-.nba-jam-team-select {
-  width: 90%;
-  text-align: center;
-}
+  .menu nav {
+    display: none;
+  }
+
+  .explaination {
+    line-height: 2em;
+    padding-top: 0em;
+    display: flex;
+    align-items: center;
+  }
+
+  table.table-data {
+    font-size: 0.5em;
+    height: 3em;
+    overflow-y: scroll;
+  }
+
+  .award-container {
+    display: block;
+  }
+
+  .award-column {
+    width: 100%;
+    font-size: 0.7em;
+  }
+
+  .player-name {
+    font-size: 1.2em;
+  }
+
+  .player-score {
+    font-size: 1.2em;
+  }
+
+  .nba-jam-player-name-chyron {
+    height: 4em;
+  }
+
+  .nba-jam-teams {
+    font-size: 0.7em;
+    width: 80% !important;
+  }
+
+  .nba-jam-team-select {
+    width: 90%;
+    text-align: center;
+  }
 }
 
 .mythoughts {
@@ -291,9 +357,11 @@ table.awards-table {
   margin: 0 auto;
   padding: 1em;
 }
+
 h2 {
   font-size: 2em;
 }
+
 .mythoughts h2 {
   font-size: 2em;
 }
