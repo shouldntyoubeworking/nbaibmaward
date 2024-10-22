@@ -31,8 +31,8 @@ export default function AllTime(props: any) {
     let firstHalf = handledSeasons.slice(0, 3);
     let secondHalf = handledSeasons.slice(3);
     let midIndex = Math.floor(secondHalf.length / 2);
-    let displayHalf = secondHalf.slice(0, midIndex);
-    let displayHalfTwo = handledSeasons.slice(midIndex);
+    let displayHalf = secondHalf.slice(0, midIndex-1);
+    let displayHalfTwo = handledSeasons.slice(midIndex+2);
     const yearHandler = (year, index, pre = false) => {
         const playerHandler = (player, pre = false) => {
             return <td className={`award-player ${pre ? "pre-years" : ""}`}>
