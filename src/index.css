@@ -49,7 +49,9 @@ html {
 .mythoughts.page p {
   margin-bottom: 1em;
 }
-
+a.external-link {
+  text-decoration: underline;
+}
 .menu nav {
   display: flex;
   color: #FFF;
